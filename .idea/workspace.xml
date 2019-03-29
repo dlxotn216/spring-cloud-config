@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e4e0e3-320c-451e-9924-5a9249d21fd3" name="Default" comment="" />
+    <list default="true" id="04e4e0e3-320c-451e-9924-5a9249d21fd3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/spring-clould-config-server/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-config-client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,53 +21,53 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="167">
-                <caret line="110" column="4" lean-forward="false" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="4" />
+              <first_editor relative-caret-position="321">
+                <caret line="293" column="54" lean-forward="true" selection-start-line="293" selection-start-column="54" selection-end-line="293" selection-end-column="54" />
                 <folding>
-                  <marker date="1553851296224" expanded="true" signature="468:1384" ph="..." />
-                  <marker date="1553851296224" expanded="true" signature="1816:1891" ph="taesu: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="1834:1842" ph="I'm real" />
-                  <marker date="1553851296224" expanded="true" signature="1845:1891" ph="said: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="1862:1867" ph="Hello" />
-                  <marker date="1553851296224" expanded="true" signature="1880:1891" ph="Real world!" />
-                  <marker date="1553851296224" expanded="true" signature="1928:2037" ph="taesu: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="1946:1950" ph="I'm real" />
-                  <marker date="1553851296224" expanded="true" signature="1946:1953" ph="I'm dev" />
-                  <marker date="1553851296224" expanded="true" signature="1956:2037" ph="said: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="1973:1978" ph="Hello" />
-                  <marker date="1553851296224" expanded="true" signature="1991:2037" ph="Dev world…in server)" />
-                  <marker date="1553851296224" expanded="true" signature="2761:2836" ph="taesu: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="2779:2787" ph="I'm real" />
-                  <marker date="1553851296224" expanded="true" signature="2790:2836" ph="said: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="2807:2812" ph="Hello" />
-                  <marker date="1553851296224" expanded="true" signature="2825:2836" ph="Real world!" />
-                  <marker date="1553851296224" expanded="true" signature="2875:2984" ph="taesu: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="2893:2900" ph="I'm dev" />
-                  <marker date="1553851296224" expanded="true" signature="2903:2984" ph="said: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="2920:2925" ph="Hello" />
-                  <marker date="1553851296224" expanded="true" signature="2938:2984" ph="Dev world…in server)" />
-                  <marker date="1553851296224" expanded="true" signature="4150:4172" ph="@{...}" />
-                  <marker date="1553851296224" expanded="true" signature="4442:4680" ph="{...}" />
-                  <marker date="1553851296224" expanded="true" signature="4696:4705" ph="@{...}" />
-                  <marker date="1553851296224" expanded="true" signature="4973:5211" ph="{...}" />
-                  <marker date="1553851296224" expanded="true" signature="5227:5267" ph="@{...}" />
-                  <marker date="1553851296224" expanded="true" signature="5549:5628" ph="{...}" />
-                  <marker date="1553851296224" expanded="true" signature="5741:5821" ph="{...}" />
-                  <marker date="1553851296224" expanded="true" signature="6214:6287" ph="taesu: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="6232:6239" ph="I'm dev" />
-                  <marker date="1553851296224" expanded="true" signature="6242:6287" ph="said: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="6259:6264" ph="Hello" />
-                  <marker date="1553851296224" expanded="true" signature="6277:6287" ph="Dev world!" />
-                  <marker date="1553851296224" expanded="true" signature="6383:6711" ph="{&quot;name&quot;: &quot;config-client&quot;...}" />
-                  <marker date="1553851296224" expanded="true" signature="6525:6710" ph="[...]" />
-                  <marker date="1553851296224" expanded="true" signature="6526:6709" ph="{&quot;name&quot;: &quot;https://github.com/dlxotn216/spring-cloud-config.git/config-client-dev.yml&quot;...}" />
-                  <marker date="1553851296224" expanded="true" signature="8635:8734" ph="taesu: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="8653:8660" ph="I'm dev" />
-                  <marker date="1553851296224" expanded="true" signature="8663:8734" ph="said: &lt;2 keys&gt;" />
-                  <marker date="1553851296224" expanded="true" signature="8680:8685" ph="Hello" />
-                  <marker date="1553851296224" expanded="true" signature="8698:8730" ph="Dev world…us-refresh" />
-                  <marker date="1553851296224" expanded="true" signature="8698:8734" ph="Dev world…refresh```" />
-                  <marker date="1553851296224" expanded="true" signature="8731:8734" ph="```" />
+                  <marker date="1553851662976" expanded="true" signature="468:1384" ph="..." />
+                  <marker date="1553851662976" expanded="true" signature="1816:1891" ph="taesu: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="1834:1842" ph="I'm real" />
+                  <marker date="1553851662976" expanded="true" signature="1845:1891" ph="said: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="1862:1867" ph="Hello" />
+                  <marker date="1553851662976" expanded="true" signature="1880:1891" ph="Real world!" />
+                  <marker date="1553851662976" expanded="true" signature="1928:2037" ph="taesu: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="1946:1950" ph="I'm real" />
+                  <marker date="1553851662976" expanded="true" signature="1946:1953" ph="I'm dev" />
+                  <marker date="1553851662976" expanded="true" signature="1956:2037" ph="said: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="1973:1978" ph="Hello" />
+                  <marker date="1553851662976" expanded="true" signature="1991:2037" ph="Dev world…in server)" />
+                  <marker date="1553851662976" expanded="true" signature="2774:2849" ph="taesu: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="2792:2800" ph="I'm real" />
+                  <marker date="1553851662976" expanded="true" signature="2803:2849" ph="said: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="2820:2825" ph="Hello" />
+                  <marker date="1553851662976" expanded="true" signature="2838:2849" ph="Real world!" />
+                  <marker date="1553851662976" expanded="true" signature="2888:2997" ph="taesu: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="2906:2913" ph="I'm dev" />
+                  <marker date="1553851662976" expanded="true" signature="2916:2997" ph="said: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="2933:2938" ph="Hello" />
+                  <marker date="1553851662976" expanded="true" signature="2951:2997" ph="Dev world…in server)" />
+                  <marker date="1553851662976" expanded="true" signature="4359:4381" ph="@{...}" />
+                  <marker date="1553851662976" expanded="true" signature="4651:4889" ph="{...}" />
+                  <marker date="1553851662976" expanded="true" signature="4905:4914" ph="@{...}" />
+                  <marker date="1553851662976" expanded="true" signature="5182:5420" ph="{...}" />
+                  <marker date="1553851662976" expanded="true" signature="5436:5476" ph="@{...}" />
+                  <marker date="1553851662976" expanded="true" signature="5758:5837" ph="{...}" />
+                  <marker date="1553851662976" expanded="true" signature="5950:6030" ph="{...}" />
+                  <marker date="1553851662976" expanded="true" signature="6423:6496" ph="taesu: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="6441:6448" ph="I'm dev" />
+                  <marker date="1553851662976" expanded="true" signature="6451:6496" ph="said: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="6468:6473" ph="Hello" />
+                  <marker date="1553851662976" expanded="true" signature="6486:6496" ph="Dev world!" />
+                  <marker date="1553851662976" expanded="true" signature="6592:6920" ph="{&quot;name&quot;: &quot;config-client&quot;...}" />
+                  <marker date="1553851662976" expanded="true" signature="6734:6919" ph="[...]" />
+                  <marker date="1553851662976" expanded="true" signature="6735:6918" ph="{&quot;name&quot;: &quot;https://github.com/dlxotn216/spring-cloud-config.git/config-client-dev.yml&quot;...}" />
+                  <marker date="1553851662976" expanded="true" signature="9245:9344" ph="taesu: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="9263:9270" ph="I'm dev" />
+                  <marker date="1553851662976" expanded="true" signature="9273:9344" ph="said: &lt;2 keys&gt;" />
+                  <marker date="1553851662976" expanded="true" signature="9290:9295" ph="Hello" />
+                  <marker date="1553851662976" expanded="true" signature="9308:9340" ph="Dev world…us-refresh" />
+                  <marker date="1553851662976" expanded="true" signature="9308:9344" ph="Dev world…refresh```" />
+                  <marker date="1553851662976" expanded="true" signature="9341:9344" ph="```" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -212,216 +215,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-clould-config-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-clould-config-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-clould-config-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-clould-config-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-cloud-config-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -698,7 +491,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553834462529</updated>
-      <workItem from="1553834464275" duration="10543000" />
+      <workItem from="1553834464275" duration="10857000" />
     </task>
     <task id="LOCAL-00001" summary="Commit for refresh-bus">
       <created>1553840458664</created>
@@ -739,7 +532,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10543000" />
+    <option name="totallyTimeSpent" value="10857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -902,53 +695,53 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="167">
-            <caret line="110" column="4" lean-forward="false" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="4" />
+          <first_editor relative-caret-position="321">
+            <caret line="293" column="54" lean-forward="true" selection-start-line="293" selection-start-column="54" selection-end-line="293" selection-end-column="54" />
             <folding>
-              <marker date="1553851296224" expanded="true" signature="468:1384" ph="..." />
-              <marker date="1553851296224" expanded="true" signature="1816:1891" ph="taesu: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="1834:1842" ph="I'm real" />
-              <marker date="1553851296224" expanded="true" signature="1845:1891" ph="said: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="1862:1867" ph="Hello" />
-              <marker date="1553851296224" expanded="true" signature="1880:1891" ph="Real world!" />
-              <marker date="1553851296224" expanded="true" signature="1928:2037" ph="taesu: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="1946:1950" ph="I'm real" />
-              <marker date="1553851296224" expanded="true" signature="1946:1953" ph="I'm dev" />
-              <marker date="1553851296224" expanded="true" signature="1956:2037" ph="said: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="1973:1978" ph="Hello" />
-              <marker date="1553851296224" expanded="true" signature="1991:2037" ph="Dev world…in server)" />
-              <marker date="1553851296224" expanded="true" signature="2761:2836" ph="taesu: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="2779:2787" ph="I'm real" />
-              <marker date="1553851296224" expanded="true" signature="2790:2836" ph="said: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="2807:2812" ph="Hello" />
-              <marker date="1553851296224" expanded="true" signature="2825:2836" ph="Real world!" />
-              <marker date="1553851296224" expanded="true" signature="2875:2984" ph="taesu: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="2893:2900" ph="I'm dev" />
-              <marker date="1553851296224" expanded="true" signature="2903:2984" ph="said: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="2920:2925" ph="Hello" />
-              <marker date="1553851296224" expanded="true" signature="2938:2984" ph="Dev world…in server)" />
-              <marker date="1553851296224" expanded="true" signature="4150:4172" ph="@{...}" />
-              <marker date="1553851296224" expanded="true" signature="4442:4680" ph="{...}" />
-              <marker date="1553851296224" expanded="true" signature="4696:4705" ph="@{...}" />
-              <marker date="1553851296224" expanded="true" signature="4973:5211" ph="{...}" />
-              <marker date="1553851296224" expanded="true" signature="5227:5267" ph="@{...}" />
-              <marker date="1553851296224" expanded="true" signature="5549:5628" ph="{...}" />
-              <marker date="1553851296224" expanded="true" signature="5741:5821" ph="{...}" />
-              <marker date="1553851296224" expanded="true" signature="6214:6287" ph="taesu: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="6232:6239" ph="I'm dev" />
-              <marker date="1553851296224" expanded="true" signature="6242:6287" ph="said: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="6259:6264" ph="Hello" />
-              <marker date="1553851296224" expanded="true" signature="6277:6287" ph="Dev world!" />
-              <marker date="1553851296224" expanded="true" signature="6383:6711" ph="{&quot;name&quot;: &quot;config-client&quot;...}" />
-              <marker date="1553851296224" expanded="true" signature="6525:6710" ph="[...]" />
-              <marker date="1553851296224" expanded="true" signature="6526:6709" ph="{&quot;name&quot;: &quot;https://github.com/dlxotn216/spring-cloud-config.git/config-client-dev.yml&quot;...}" />
-              <marker date="1553851296224" expanded="true" signature="8635:8734" ph="taesu: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="8653:8660" ph="I'm dev" />
-              <marker date="1553851296224" expanded="true" signature="8663:8734" ph="said: &lt;2 keys&gt;" />
-              <marker date="1553851296224" expanded="true" signature="8680:8685" ph="Hello" />
-              <marker date="1553851296224" expanded="true" signature="8698:8730" ph="Dev world…us-refresh" />
-              <marker date="1553851296224" expanded="true" signature="8698:8734" ph="Dev world…refresh```" />
-              <marker date="1553851296224" expanded="true" signature="8731:8734" ph="```" />
+              <marker date="1553851662976" expanded="true" signature="468:1384" ph="..." />
+              <marker date="1553851662976" expanded="true" signature="1816:1891" ph="taesu: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="1834:1842" ph="I'm real" />
+              <marker date="1553851662976" expanded="true" signature="1845:1891" ph="said: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="1862:1867" ph="Hello" />
+              <marker date="1553851662976" expanded="true" signature="1880:1891" ph="Real world!" />
+              <marker date="1553851662976" expanded="true" signature="1928:2037" ph="taesu: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="1946:1950" ph="I'm real" />
+              <marker date="1553851662976" expanded="true" signature="1946:1953" ph="I'm dev" />
+              <marker date="1553851662976" expanded="true" signature="1956:2037" ph="said: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="1973:1978" ph="Hello" />
+              <marker date="1553851662976" expanded="true" signature="1991:2037" ph="Dev world…in server)" />
+              <marker date="1553851662976" expanded="true" signature="2774:2849" ph="taesu: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="2792:2800" ph="I'm real" />
+              <marker date="1553851662976" expanded="true" signature="2803:2849" ph="said: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="2820:2825" ph="Hello" />
+              <marker date="1553851662976" expanded="true" signature="2838:2849" ph="Real world!" />
+              <marker date="1553851662976" expanded="true" signature="2888:2997" ph="taesu: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="2906:2913" ph="I'm dev" />
+              <marker date="1553851662976" expanded="true" signature="2916:2997" ph="said: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="2933:2938" ph="Hello" />
+              <marker date="1553851662976" expanded="true" signature="2951:2997" ph="Dev world…in server)" />
+              <marker date="1553851662976" expanded="true" signature="4359:4381" ph="@{...}" />
+              <marker date="1553851662976" expanded="true" signature="4651:4889" ph="{...}" />
+              <marker date="1553851662976" expanded="true" signature="4905:4914" ph="@{...}" />
+              <marker date="1553851662976" expanded="true" signature="5182:5420" ph="{...}" />
+              <marker date="1553851662976" expanded="true" signature="5436:5476" ph="@{...}" />
+              <marker date="1553851662976" expanded="true" signature="5758:5837" ph="{...}" />
+              <marker date="1553851662976" expanded="true" signature="5950:6030" ph="{...}" />
+              <marker date="1553851662976" expanded="true" signature="6423:6496" ph="taesu: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="6441:6448" ph="I'm dev" />
+              <marker date="1553851662976" expanded="true" signature="6451:6496" ph="said: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="6468:6473" ph="Hello" />
+              <marker date="1553851662976" expanded="true" signature="6486:6496" ph="Dev world!" />
+              <marker date="1553851662976" expanded="true" signature="6592:6920" ph="{&quot;name&quot;: &quot;config-client&quot;...}" />
+              <marker date="1553851662976" expanded="true" signature="6734:6919" ph="[...]" />
+              <marker date="1553851662976" expanded="true" signature="6735:6918" ph="{&quot;name&quot;: &quot;https://github.com/dlxotn216/spring-cloud-config.git/config-client-dev.yml&quot;...}" />
+              <marker date="1553851662976" expanded="true" signature="9245:9344" ph="taesu: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="9263:9270" ph="I'm dev" />
+              <marker date="1553851662976" expanded="true" signature="9273:9344" ph="said: &lt;2 keys&gt;" />
+              <marker date="1553851662976" expanded="true" signature="9290:9295" ph="Hello" />
+              <marker date="1553851662976" expanded="true" signature="9308:9340" ph="Dev world…us-refresh" />
+              <marker date="1553851662976" expanded="true" signature="9308:9344" ph="Dev world…refresh```" />
+              <marker date="1553851662976" expanded="true" signature="9341:9344" ph="```" />
             </folding>
           </first_editor>
           <second_editor />

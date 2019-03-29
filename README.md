@@ -67,7 +67,7 @@ Profile 별 설정파일을 분리하고 Application이 실행 될 시점에 spr
  
  
 ## Configuration 공통 관리
-<img src="https://i0.wp.com/blog.leekyoungil.com/wp-content/uploads/2017/04/1.png" />
+<img src="https://i0.wp.com/blog.leekyoungil.com/wp-content/uploads/2017/04/1.png" width="1000" />
 <참조 http://blog.leekyoungil.com/?p=352>  
   
 Spring cloud config에선 위의 그림처럼 여러 Application의 설정을 중앙에서 관리할 수 있다. 또한 설정 파일을  
@@ -108,7 +108,7 @@ spring.cloud.config.server.git.uri=https://github.com/dlxotn216/spring-cloud-con
 ```
 
 spring.profile.active를 dev로 주고 application을 실행한 후 설정값이 잘 연동되었는지 URL을 호출하여 확인할 수 있다.   
-<img src="config_client_dev" />
+<img src="https://raw.githubusercontent.com/dlxotn216/spring-cloud-config/master/images/config-client_dev.png" width="1000" />
 
 
 다음으로 Spring initializer를 통해 Spring config client, Actuactor dependency를 설정한 Spring boot application을 생성한다.    
@@ -124,7 +124,7 @@ management.endpoints.web.exposure.include=refresh
 ```
 
 spring.profile.active를 dev로 주고 Client appliation을 구동하면 아래와 같은 INFO log들을 볼 수 있다.   
-<img src="info_log" />
+<img src="https://raw.githubusercontent.com/dlxotn216/spring-cloud-config/master/images/first_info_log.png" width="1000" />
 
 제대로 Config server를 통해 Client application이 떴는지 확인을 하기 위해 아래와 같은 controller 및 service를 정의한다.  
 
@@ -225,7 +225,7 @@ push가 완료된 후 http://localhost:9090/config-client/dev를 조회하면 �
 
 하지만 config client의 static, dynamic은 둘다 이전 값들을 내보내고 있다.  
 여기서 http://localhost:8081/actuator/refresh [POST] (Content-Type: application/json)으로 요청을 보내면 아래의 응답이 나온다  
-<img src="" />
+<img src="https://raw.githubusercontent.com/dlxotn216/spring-cloud-config/master/images/8081_actuator_refresh.png" width="1000" />
 
 그 후 http://localhost:8081/config/dynamic으로 조회하면 업데이트 된 설정 값을 볼 수 있다.
 ```json
@@ -269,14 +269,14 @@ spring.rabbitmq.password=test
 Message queue는 RabbitMQ를 사용하므로 적절히 설치하거나 준비하자.  
 본문에서는 Docker에서 아래 명령어를 통해 설정했다. (Window 환경이라 IP가 192.168.99.100에 매핑 되어있다.)  
 docker run -it -d -p 5672:5672 -p 15672:15672 -e RABBITMQ_DEFAULT_USER=test -e RABBITMQ_DEFAULT_PASS=test rabbitmq:3.7.2-management-alpine
-<img src="docker" />
+<img src="https://raw.githubusercontent.com/dlxotn216/spring-cloud-config/master/images/docker.png" width="1000" />
 
 
 다시 Config Server, Config Client를 띄워보자. 정상적으로 설정이 완료되면 아래와 같은 로그가 뜬다.  
 **Config Server**
-<img src="docker_server_config_log" />
+<img src="https://raw.githubusercontent.com/dlxotn216/spring-cloud-config/master/images/docker_config_server_log.png" width="1000" />
 **Config Client**
-<img src="docker_config_config_log" />
+<img src="https://raw.githubusercontent.com/dlxotn216/spring-cloud-config/master/images/docker_config_config_log.png" width="1000" />
 
 기본적으로 설정된 값들이 정상적으로 조회되는 지 확인 후 Config 파일을 수정하여 commit 및 push한다.  
 ```yaml
@@ -289,13 +289,13 @@ taesu:
 
 그 후 Config client의 주소가 아닌 Config Server로 아래와 같은 요청을 보내보자.  
 http://localhost:9090/actuator/bus-refresh [POST] (Content-Type: application/json)  
-<img src="9090_bus_refresh" />
+<img src="https://raw.githubusercontent.com/dlxotn216/spring-cloud-config/master/images/9090_bus_refresh.png" width="1000" />
 
 정상적인 response가 온 후 Config client에서 업데이트 된 것을 확인 해보자.  
 MQ에서 받은 메시지에 의해 Spring actuator가 설정을 다시 로드하는 로그가 보인다. 
-<img src="refresh_bus_reload_log" />
+<img src="https://raw.githubusercontent.com/dlxotn216/spring-cloud-config/master/images/refresh_bus_reload_log.png" width="1000" />
 
 실제 조회해보면 정상적으로 변경 된 설정값이 노출되는 것을 볼 수 있다.
-<img src="refresh_bus_dynamic"/>
+<img src="https://raw.githubusercontent.com/dlxotn216/spring-cloud-config/master/images/refresh_bus_dynamic.png" width="1000" />
 
 
